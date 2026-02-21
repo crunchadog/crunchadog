@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Кирилл 👋</h1>
 <p align="center">
   <b><ROLE / TAGLINE></b><br/>
-  <i>НЫААААААА</i>
+  <i>°•°</i>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-## Стек 🥩
+## Стек 
 
 <p>
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-111?logo=javascript&logoColor=F7DF1E">
