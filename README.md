@@ -15,7 +15,7 @@
 
 <p>
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-111?logo=javascript&logoColor=F7DF1E">
-  <img alt="JS" src="https://img.shields.io/badge/TypeScript-111?logo=typescript&logoColor=lightblue">
+  <img alt="JS" src="https://img.shields.io/badge/TypeScript-111?logo=typescript&logoColor=blue">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111?logo=node.js&logoColor=339933">
   <img alt="React" src="https://img.shields.io/badge/React-111?logo=React&logoColor=2496ED">
 <img alt="Redux" src="https://img.shields.io/badge/Redux-111?logo=redux">
