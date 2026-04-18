@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://t.me/ppxhl"><img alt="Telegram" src="https://img.shields.io/badge/click-2CA5E0?logo=telegram&logoColor=white"></a>
-  <a href="<WEBSITE>"><img alt="Website" src="https://img.shields.io/badge/Website-временная_заглушка-111?logo=smugmug&logoColor=white"></a>
+  <a href="<[WEBSITE](https://crunchadog.github.io/about_me/)>"><img alt="Website" src="https://img.shields.io/badge/Website-111?logo=smugmug&logoColor=white"></a>
 </p>
 
 ---
